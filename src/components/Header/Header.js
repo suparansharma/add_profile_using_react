@@ -12,6 +12,7 @@ const Header = () => {
                 <a href="">ALL</a>
                 </nav>
         </div>
+        
     );
 };
 

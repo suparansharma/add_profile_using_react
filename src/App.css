@@ -1,5 +1,22 @@
 
+.main-container{
+  display: flex;
+}
 
+.sec-container{
+
+  width: 70%;
+  margin-left: 20px;
+  margin-right:5px ;
+  border-right: 1px solid black;
+}
+
+.sec-container{
+  display: flex;
+  border-bottom:1px solid gray ;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
 .App-link {
   color: #61dafb;
 }
